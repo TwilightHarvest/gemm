@@ -1,1 +1,1 @@
-CMake skeleton, naive kernel, correctness check against OpenBLAS.
+Loop reorder (i-k-j), record cache behavior.
