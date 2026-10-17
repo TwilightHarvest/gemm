@@ -1,0 +1,20 @@
+# CMake build directories
+/build/
+/build-*/
+
+# CMake-generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+
+# CMake user-specific presets
+CMakeUserPresets.json
+
+# Compiled files
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.exe
